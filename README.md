@@ -30,9 +30,9 @@ After that we need to upload the contract to the blockchain network.
 ```bash
   npx hardhat run --network volta scripts/deploy.js
 ```
-Now the contract is uploaded to the blockchain.\n
-![Screenshot 2024-05-12 194114](https://github.com/hiraknaskar/Decentralizes-Voting-Application/assets/131425379/1d901167-5f3a-4fbc-8880-7a1fdf6da47b) \n
-Then, we need to add Contract Address Details(ex- 0xeC50992eE005a9CB12aBB8a113E34878532e2B95) in the .env file and constant.js file.\n
+Now the contract is uploaded to the blockchain.
+![Screenshot 2024-05-12 194114](https://github.com/hiraknaskar/Decentralizes-Voting-Application/assets/131425379/1d901167-5f3a-4fbc-8880-7a1fdf6da47b) 
+Then, we need to add Contract Address Details(ex- 0xeC50992eE005a9CB12aBB8a113E34878532e2B95) in the .env file and constant.js file.
 Reference of .env file:
 (API_URL = "https://volta-rpc.energyweb.org/"
 PRIVATE_KEY =""
