@@ -221,22 +221,38 @@ button {
   background-size: cover;
 }
 .login-container {
+
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color: #f1f1f1;
+  background: url(https://media.istockphoto.com/id/1452233668/photo/big-data-center-concept-cloud-database-server-power-station-of-the-future-data-transfer.jpg?s=2048x2048&w=is&k=20&c=H-nxP0Xx_aUNRVsEkAlKSAG-zhLJb5lLzDrL51YEoEo=)
+}
+.result-container {
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: url(C:\Users\hirak\Desktop\votingApp\React-Voting-Application-main\Voting-App\img2.jpg)
 }
 
 .welcome-message {
   font-size: 2rem;
   text-align: center;
   margin-bottom: 2rem;
+  color: #ea00ff;
 }
-
+.end-message {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 2rem;
+  color: #3e006a;
+}
 .login-button {
-  background-color: #007bff;
+  background-color: #ea00ff;
   color: #fff;
   font-size: 1.2rem;
   border: none;
@@ -264,12 +280,14 @@ button {
   font-size: 2rem;
   text-align: center;
   margin-bottom: 2rem;
+  color: #9d00ff;
 }
 
 .connected-account {
   font-size: 1.2rem;
   text-align: center;
   margin-bottom: 2rem;
+  color: #6300a1;
 }
 
 .connected-button {
@@ -298,6 +316,8 @@ button {
   border-collapse: collapse;
   width: 50%;
   text-align:center;
+  color: #6300a1;
+  
 }
 
 .candidates-table th, .candidates-table td {

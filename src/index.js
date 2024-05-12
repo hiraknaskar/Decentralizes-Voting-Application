@@ -5,6 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import OurAim from './Components/OurAim';
 import ContactUs from './Components/ContactUs';
+import Connected from './Components/Connected';
 import {
   createBrowserRouter,
   RouterProvider,
@@ -22,7 +23,11 @@ const router = createBrowserRouter([
   },{
     path: "/ContactUs",
     element: <ContactUs/>,
+  },{
+    path: "/Connected",
+    element: <Connected/>,
   }
+  
 ]);
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
