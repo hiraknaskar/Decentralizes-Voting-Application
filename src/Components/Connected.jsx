@@ -27,7 +27,7 @@ const Connected = (props) => {
 
         <h1 className="connected-header">You are Connected to Metamask</h1>
         <p className="connected-account">Metamask Account: {props.account}</p>
-        <p className="connected-account">Remaining Time: {props.remainingTime}</p>
+        <p className="connected-account">Remaining Time: {props.remainingTime} Seconds</p>
             { props.showButton ? (
                 <p className="connected-account">You have already voted</p>
             ) : (

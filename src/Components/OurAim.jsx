@@ -7,8 +7,15 @@ const OurAim = () =>{
       <div className="about-us-content">
         
         <h2>Our Aim</h2>
-        <p>Our mission is to [describe your mission/goals]. We aim to [describe what you aim to achieve].</p>
-        <p>At Our Company, we believe in [core values or beliefs].</p>
+        <p>At our e-voting platform, we strive to revolutionize the way
+        organizational and college-level voting is conducted. Our aim is to
+        provide a secure, transparent, and efficient voting experience powered
+        by blockchain technology</p>
+        <p>Security is paramount in everything we do. By leveraging blockchain's
+          cryptographic algorithms, we ensure that votes remain confidential and
+          anonymous, protecting the privacy of each voter. Additionally, our
+          platform employs robust encryption techniques to safeguard against
+          cyber threats and attacks</p>
       </div>
       <div className="team-section">
         <h3>Our Team</h3>

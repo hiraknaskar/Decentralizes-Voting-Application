@@ -5,7 +5,7 @@ async function main() {
 
   // Start deployment, returning a promise that resolves to a contract object
   
-  const Voting_ = await Voting.deploy(["Hirak", "Indranil", "Ayushi"], 3);
+  const Voting_ = await Voting.deploy(["Hirak", "Indranil", "Ayushi"], 20);
   console.log("Contract address:", Voting_.address);
 
 
