@@ -76,8 +76,10 @@ This is OurAim page.
 
 This is contact us page.
 
+...AND FINALLY THIS IS OUR RESULT PAGE...
+
 WHEN THE REMAINING TIME WILL BE END THEN OUR RESULT PAGE WILL BE OPENED AND WE CANNOT ACCESS THE VOTING PAGE OR LOGIN PAGE ANYMORE .
 
 ![Screenshot 2024-05-12 111146](https://github.com/hiraknaskar/Decentralizes-Voting-Application/assets/131425379/a8db345e-08b1-48ad-ae32-01c1562c04ab)
 
-...AND FINALLY THIS IS OUR RESULT PAGE...
+
