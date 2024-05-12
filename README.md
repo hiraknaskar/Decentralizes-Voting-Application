@@ -1,7 +1,7 @@
 
 
 # Decentralizes-Voting-Application
-This is a decentralised voting application which is made for secure voting.
+At our e-voting platform, we strive to revolutionize the way organizational and college-level voting is conducted. Our aim is to provide a secure, transparent, and efficient voting experience powered by blockchain technology.Security is paramount in everything we do. By leveraging blockchain's cryptographic algorithms, we ensure that votes remain confidential and anonymous, protecting the privacy of each voter. Additionally, our platform employs robust encryption techniques to safeguard against cyber threats and attacks
 
 ## Technology Used
 React Js , Hardhat , Ethers.js , Solidity.
